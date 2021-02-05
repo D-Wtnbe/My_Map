@@ -1,0 +1,6 @@
+172.27.0.1 - - [08/Aug/2020:08:05:12 +0000] "GET / HTTP/1.1" 502 559 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.122 Safari/537.36" "-"
+172.27.0.1 - - [08/Aug/2020:08:05:12 +0000] "GET /favicon.ico HTTP/1.1" 502 559 "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.122 Safari/537.36" "-"
+172.27.0.1 - - [08/Aug/2020:08:05:52 +0000] "GET / HTTP/1.1" 502 559 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.122 Safari/537.36" "-"
+172.27.0.1 - - [08/Aug/2020:08:05:52 +0000] "GET /favicon.ico HTTP/1.1" 502 559 "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.122 Safari/537.36" "-"
+172.27.0.1 - - [08/Aug/2020:08:30:34 +0000] "GET / HTTP/1.1" 200 82 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.122 Safari/537.36" "-"
+172.27.0.1 - - [08/Aug/2020:08:37:20 +0000] "GET / HTTP/1.1" 200 82 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.122 Safari/537.36" "-"
