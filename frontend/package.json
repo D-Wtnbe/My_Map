@@ -12,7 +12,7 @@
         "axios": "^0.20.0",
         "core-js": "^3.6.5",
         "css-loader": "^1.0.1",
-        "firebase": "^7.17.2",
+        "firebase": "^8.2.6",
         "firebase-tools": "^8.7.0",
         "font-awesome": "^4.7.0",
         "google-maps-api-loader": "^1.1.1",
