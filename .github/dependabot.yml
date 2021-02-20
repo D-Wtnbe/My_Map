@@ -1,11 +1,12 @@
 version: 2
 updates:
-- package-ecosystem: npm
-  directory: "/frontend"
-  schedule:
-    interval: daily
-    time: "20:00"
-    timezone: Asia/Tokyo
-  open-pull-requests-limit: 10
-  reviewers:
-  - D-Wtnbe
+  - package-ecosystem: "npm"
+    directory: "/frontend"
+    schedule:
+      interval: "daily"
+      time: "09:00"
+      timezone: "Asia/Tokyo"
+    # npm プルリクエストのラベルを指定する
+    labels:
+      - "automerge"
+      - "dependencies"
