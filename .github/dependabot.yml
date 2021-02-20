@@ -10,3 +10,25 @@ updates:
     labels:
       - "automerge"
       - "dependencies"
+      
+  - package-ecosystem: "docker"
+    directory: "/frontend"
+    schedule:
+      interval: "daily"
+      time: "09:00"
+      timezone: "Asia/Tokyo"
+    # npm プルリクエストのラベルを指定する
+    labels:
+      - "automerge"
+      - "dependencies"
+      
+  - package-ecosystem: "docker"
+    directory: "/backend"
+    schedule:
+      interval: "daily"
+      time: "09:00"
+      timezone: "Asia/Tokyo"
+    # npm プルリクエストのラベルを指定する
+    labels:
+      - "automerge"
+      - "dependencies"  
