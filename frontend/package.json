@@ -16,7 +16,7 @@
         "core-js": "3.9.0",
         "firebase": "8.2.9",
         "css-loader": "5.0.2",
-        "firebase-tools": "9.5.0",
+        "firebase-tools": "9.23.3",
         "font-awesome": "4.7.0",
         "google-maps-api-loader": "1.1.1",
         "highcharts": "9.0.1",
