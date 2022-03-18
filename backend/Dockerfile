@@ -1,4 +1,4 @@
-FROM python:3.9.2-buster
+FROM python:3.10.3-buster
 
 RUN mkdir /var/www
 # workdirの指定
