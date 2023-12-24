@@ -24,7 +24,7 @@
         "load-google-maps-api": "2.0.2",
         "scriptjs": "2.5.9",
         "semantic-ui-css": "2.4.1",
-        "vue": "2.6.12",
+        "vue": "2.7.16",
         "vue-apexcharts": "1.6.0",
         "vue-material": "1.0.0-beta-15",
         "vue-router": "3.5.1",
@@ -47,7 +47,7 @@
         "sass-loader": "11.0.1",
         "vue-cli-plugin-vuetify": "2.1.0",
         "vue-style-loader": "4.1.2",
-        "vue-template-compiler": "2.6.12",
+        "vue-template-compiler": "2.7.16",
         "vuetify-loader": "1.7.2"
     },
     "eslintConfig": {
